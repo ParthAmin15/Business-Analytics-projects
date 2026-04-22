@@ -20,6 +20,8 @@ Trend Analysis: Analyzed how search interest for "EV Charging" and specific bran
 Methodology
 Data Synthesis: Merged market sales data with trend scores to identify leading indicators for EV adoption.
 
+NOTE:- Project is done online in google spreadsheets.
+
 Correlation Modeling: Used statistical analysis (CORREL) to test the impact of external drivers (Gas price, Infrastructure) on consumer purchase decisions.
 
 Momentum Analysis: Tracked Year-over-Year (YoY) growth and rolling averages to identify market acceleration patterns.
