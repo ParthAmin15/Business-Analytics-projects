@@ -14,3 +14,5 @@ Category Insights: Technology products lead in profit margins, while Furniture a
 Profitability Alert: Bookcases, Tables, and Supplies were identified as "Loss Products," requiring immediate attention to pricing or supply chain costs.
 
 KPI Dashboard: Developed a centralized view tracking Total Sales ($2.29M+), Total Profit, and Average Discount rates.
+
+NOTE:- Project is done online in google spreadsheets
