@@ -12,3 +12,6 @@ The Customer Churn Analysis & Retention Strategy project focuses on identifying 
 
 Project 4) Supply chain performance and Inventory optimisation 
 The Supply Chain Performance & Inventory Optimization Analysis project focuses on analyzing supply chain operations to improve inventory management, supplier performance, and logistics efficiency. The project leverages data analysis techniques to monitor key performance indicators (KPIs), identify operational risks, and provide actionable business recommendations.
+
+Project 5) Financial Performance and Profitablility Analysis
+This project focuses on analyzing financial performance data to identify revenue trends, profitability patterns, and cost optimization opportunities. The objective was to build an interactive dashboard and provide data-driven business recommendations to support strategic decision-making.
