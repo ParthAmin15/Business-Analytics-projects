@@ -9,9 +9,12 @@ This project provides a comprehensive market intelligence analysis for the Elect
 
 Project 3) Customer churn Analysis and Retention Strategy
 The Customer Churn Analysis & Retention Strategy project focuses on identifying the key factors contributing to customer attrition in a telecom business environment. The objective of the project is to analyze customer behavior, measure churn patterns, and propose data-driven strategies to improve customer retention and support business decision-making. An interactive tableau dashboard was developed.
-
+ 
 Project 4) Supply chain performance and Inventory optimisation 
 The Supply Chain Performance & Inventory Optimization Analysis project focuses on analyzing supply chain operations to improve inventory management, supplier performance, and logistics efficiency. The project leverages data analysis techniques to monitor key performance indicators (KPIs), identify operational risks, and provide actionable business recommendations.
 
 Project 5) Financial Performance and Profitablility Analysis
 This project focuses on analyzing financial performance data to identify revenue trends, profitability patterns, and cost optimization opportunities. The objective was to build an interactive dashboard and provide data-driven business recommendations to support strategic decision-making.
+
+Project 6) Hr Analytics - Employee attrition & Workforce planning
+The HR Analytics — Employee Attrition & Workforce Planning project analyzes employee data to identify key factors influencing employee turnover and provide actionable strategies to improve workforce retention.
