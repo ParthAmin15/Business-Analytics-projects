@@ -18,3 +18,6 @@ This project focuses on analyzing financial performance data to identify revenue
 
 Project 6) Hr Analytics - Employee attrition & Workforce planning
 The HR Analytics — Employee Attrition & Workforce Planning project analyzes employee data to identify key factors influencing employee turnover and provide actionable strategies to improve workforce retention.
+
+Project 7) Superstore PowerBI project - This project presents an Executive-Level Business Performance Dashboard built using Power BI to analyze key business metrics such as revenue, profit, growth, and customer behavior.
+The objective of this project is to provide data-driven insights and actionable recommendations to support strategic decision-making at the management level.
