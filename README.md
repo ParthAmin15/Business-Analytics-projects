@@ -1,23 +1,121 @@
-# Business-Analytics-projects
-This repo contains business analytics projects and its documentation.
+# 📊 Business Analytics Projects Portfolio
 
-Project 1)  Retail sales analysis project :- 
-The retail organization was experiencing inconsistent sales performance, declining profitability in specific categories, and limited visibility into product-level performance. Management required a structured reporting system to monitor KPIs like Sales, Profit, and Regional trends.
+Welcome to my **Business Analytics & Data Analytics Portfolio**, where I showcase end-to-end projects involving data cleaning, analysis, visualization, and business recommendations.
 
-Project 2) EV Market Intelligence :-
-This project provides a comprehensive market intelligence analysis for the Electric Vehicle (EV) industry. By integrating sales performance metrics with consumer search interest data, this analysis bridges the gap between what is selling and why it is trending.
+---
 
-Project 3) Customer churn Analysis and Retention Strategy
-The Customer Churn Analysis & Retention Strategy project focuses on identifying the key factors contributing to customer attrition in a telecom business environment. The objective of the project is to analyze customer behavior, measure churn patterns, and propose data-driven strategies to improve customer retention and support business decision-making. An interactive tableau dashboard was developed.
- 
-Project 4) Supply chain performance and Inventory optimisation 
-The Supply Chain Performance & Inventory Optimization Analysis project focuses on analyzing supply chain operations to improve inventory management, supplier performance, and logistics efficiency. The project leverages data analysis techniques to monitor key performance indicators (KPIs), identify operational risks, and provide actionable business recommendations.
+# 🚀 Active Projects (Featured)
 
-Project 5) Financial Performance and Profitablility Analysis
-This project focuses on analyzing financial performance data to identify revenue trends, profitability patterns, and cost optimization opportunities. The objective was to build an interactive dashboard and provide data-driven business recommendations to support strategic decision-making.
+These projects represent my **best work** and demonstrate strong skills in business analysis, data visualization, and decision-making.
 
-Project 6) Hr Analytics - Employee attrition & Workforce planning
-The HR Analytics — Employee Attrition & Workforce Planning project analyzes employee data to identify key factors influencing employee turnover and provide actionable strategies to improve workforce retention.
+---
 
-Project 7) Superstore PowerBI project - This project presents an Executive-Level Business Performance Dashboard built using Power BI to analyze key business metrics such as revenue, profit, growth, and customer behavior.
-The objective of this project is to provide data-driven insights and actionable recommendations to support strategic decision-making at the management level.
+## 📌 1. Business Performance & KPI Dashboard (Power BI)
+
+* Executive-level dashboard for revenue, profit, and growth analysis
+* Built using Power BI with DAX measures
+* Includes KPI tracking, trend analysis, and business insights
+
+---
+
+## 📌 2. Customer Churn Analysis & Retention Strategy
+
+* Identified key factors leading to customer churn
+* Developed retention strategies based on data insights
+* Includes dashboard and business recommendations
+
+---
+
+## 📌 3. HR Analytics — Employee Attrition Analysis
+
+* Analyzed employee attrition patterns
+* Identified key drivers of employee turnover
+* Provided workforce planning recommendations
+
+---
+
+## 📌 4. Supply Chain & Inventory Analysis
+
+* Evaluated inventory performance and supply chain efficiency
+* Identified stock and operational issues
+* Suggested optimization strategies
+
+---
+
+## 📌 5. Financial Performance Analysis
+
+* Analyzed revenue, profit, and cost trends
+* Evaluated overall business performance
+* Provided financial improvement strategies
+
+---
+
+# 📦 Archived Projects
+
+These projects were part of my learning journey and are retained for reference.
+They may have overlapping concepts or simpler implementations compared to active projects.
+
+---
+
+## 📁 Retail / Superstore Sales Analysis
+
+* Basic sales and profit analysis
+* Early-stage dashboard project
+
+---
+
+## 📁 EV Market Intelligence Analysis
+
+* Market trend analysis of electric vehicles
+* Focused on industry insights
+
+---
+
+# 🛠️ Tools & Technologies
+
+* Excel
+* Power BI
+* Tableau
+* SQL (Learning & Upcoming Projects)
+* Python (Basic Data Analysis)
+
+---
+
+# 🧠 Skills Demonstrated
+
+* Data Cleaning & Preparation
+* Data Visualization
+* KPI Development
+* Business Analysis
+* Dashboard Design
+* Insight Generation
+* Problem Solving
+
+---
+
+# 🎯 Portfolio Objective
+
+To demonstrate the ability to:
+
+* Solve real-world business problems using data
+* Create actionable insights
+* Support data-driven decision-making
+
+---
+
+# 👨‍💻 Author
+
+**Parth Amin**
+Aspiring Business Analyst / Data Analyst
+
+🔗 GitHub:
+https://github.com/ParthAmin15/Business-Analytics-projects
+
+---
+
+# 🔮 Future Improvements
+
+* SQL-based business case project
+* Advanced analytics & predictive modeling
+* Real-world case study simulations
+
